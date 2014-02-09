@@ -1,6 +1,6 @@
 Melkor's Tower (Demo)
 
-To run: compile ConsoleApplet.java
+To make: compile ConsoleApplet.java as a Java Applet.
 
 The files in ConsoleApplet folder were originally by David Eck and modified by Marcin Swieczkowski.
 
