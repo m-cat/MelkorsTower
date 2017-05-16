@@ -1,2 +1,2 @@
 build:
-	javac src/*.java src/ConsoleApplet/*.java -Xlint:deprecation
+	javac -d bin src/*.java src/ConsoleApplet/*.java -Xlint:deprecation
